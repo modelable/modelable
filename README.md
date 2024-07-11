@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 
 ## 🎓 MODELABLE 🎓
 - Hansung University _(2018.03 ~ 2025.8)_
