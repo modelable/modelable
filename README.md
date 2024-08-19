@@ -1,13 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 
-## 🎓 MODELABLE 🎓
+## 🎓 ABOUT ME 🎓
 - Hansung University _(2018.03 ~ 2025.08)_
-- Mensa Korea _(2018.10 ~ 2019.09)_
+- Mensa Korea _(2018.10 ~ 2019.09)_ 
+<br>
 
-## 🏆 Award 🏆
+## 🏆 AWARD 🏆
 
-🏅 2024년 창의융합성과 경진대회 금상 *2024.08.19, 한성대학교 창의융합교육지원센터*
-<br> &nbsp; &nbsp; <b>'음성 위변조 탐지 포렌식'</b>
+🏅 2024년 창의융합성과 경진대회 금상 *2024.08.19, 한성대학교 창의융합교육지원센터* <br>
+&nbsp; &nbsp; <b>'음성 위변조 탐지 포렌식'</b>
+<br><br>
 
 ## 🔨 SKILLS 🔨
 <div style="display:flex; flex-direction:row;">
