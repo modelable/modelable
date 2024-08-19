@@ -1,10 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 
 ## 🎓 MODELABLE 🎓
-- Hansung University _(2018.03 ~ 2025.8)_
-- Mensa Korea _(2018.10 ~ 2019.9)_
-<br>
-  
+- Hansung University _(2018.03 ~ 2025.08)_
+- Mensa Korea _(2018.10 ~ 2019.09)_
+
+## 🏆 Award 🏆
+
+🏅 2024년 창의융합성과 경진대회 금상 *2024.08.19, 한성대학교 창의융합교육지원센터*
+<br> &nbsp; &nbsp; <b>'음성 위변조 탐지 포렌식'</b>
+
 ## 🔨 SKILLS 🔨
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"> 
@@ -22,6 +26,7 @@
     <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
     <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
+    <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
     <!-- <img src="https://img.shields.io/badge/Backbone.js-0071B5?style=flat-square&logo=backbone.js&logoColor=black"> -->
     <!-- <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"> -->
     <br>
