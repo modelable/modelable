@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 
 ## 🎓 ABOUT ME 🎓
-- Hansung University _(2018.03 ~ 2025.08)_
+- Hansung University _(2019.03 ~ 2025.08)_
 - Mensa Korea _(2018.10 ~ 2019.09)_ 
 <br>
 
