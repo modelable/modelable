@@ -1,14 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 
 ## 🎓 ABOUT ME 🎓
-- Hansung University _(2019.03 ~ 2025.08)_
+- 한성대학교 _(2019.03 ~ 2025.08)_
 - Mensa Korea _(2018.10 ~ 2019.09)_ 
 <br>
 
 ## 🏆 AWARD 🏆
 
-🏅 2024년 창의융합성과 경진대회 금상 *2024.08.19, 한성대학교 창의융합교육지원센터* <br>
-&nbsp; &nbsp; <b>'음성 위변조 탐지 포렌식'</b>
+🥇 제 10회 창의융합성과 경진대회 *2024.08.19, 한성대학교 창의융합교육지원센터* <br>
+&nbsp; &nbsp; 금상, <b>'음성 위변조 탐지 포렌식'</b>
+<br><br>
+🥉 제 20회 한성공학경진대회 *2024.09.26, 공학교육개발센터* <br>
+&nbsp; &nbsp; 동상, <b>'음성 위변조 탐지 포렌식'</b>
 <br><br>
 
 ## 🔨 SKILLS 🔨
