@@ -2,7 +2,11 @@
 
 ## 🎓 ABOUT ME 🎓
 - 한성대학교 _(2019.03 ~ 2025.08)_
-- Mensa Korea _(2018.10 ~ 2019.09)_ 
+- Mensa Korea _(2018.10 ~ 2019.09)_
+<p>
+  <a href="https://blog.naver.com/modelable" target="_blank"><img src="https://img.shields.io/badge/_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  <a href="mailto:modelable@naver.com" target="_blank"><img src="https://img.shields.io/badge/email-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</p>
 <br>
 
 ## 🏆 AWARD 🏆
