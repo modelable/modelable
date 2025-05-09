@@ -1,15 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 
-## 🎓 ABOUT ME 🎓
-- 한성대학교 _(2019.03 ~ 2025.08)_
-- Mensa Korea _(2018.10 ~ 2019.09)_
+## 🎓 ABOUT ME
+- 한성대학교 IT융합공학부 학사과정 _(2019.03 ~ 2025.08)_
+- 멘사 코리아 정회원 _(2018.10 ~ 2019.09)_
 <p>
   <a href="https://blog.naver.com/modelable" target="_blank"><img src="https://img.shields.io/badge/_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:modelable@naver.com" target="_blank"><img src="https://img.shields.io/badge/email-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 <br>
 
-## 🏆 AWARD 🏆
+## 🏆 AWARD
 
 🥇 제 10회 창의융합성과 경진대회 *2024.08.19, 한성대학교 창의융합교육지원센터* <br>
 &nbsp; &nbsp; 금상, <b>'음성 위변조 탐지 포렌식'</b>
@@ -18,7 +18,7 @@
 &nbsp; &nbsp; 동상, <b>'음성 위변조 탐지 포렌식'</b>
 <br><br>
 
-## 🔨 SKILLS 🔨
+## 🔨 SKILLS
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"> 
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring boot&logoColor=white"> 
