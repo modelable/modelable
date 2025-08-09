@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 
 ## 🎓 ABOUT ME
-- 한성대학교 IT융합공학부 학사과정 _(2019.03 ~ 2025.08)_
+- 한성대학교 IT융합공학부 학사과정 _(2019.03 ~ 2026.02)_
 - 멘사 코리아 정회원 _(2018.10 ~ 2019.09)_
 <p>
   <a href="https://blog.naver.com/modelable" target="_blank"><img src="https://img.shields.io/badge/_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
